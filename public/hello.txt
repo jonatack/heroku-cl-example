@@ -1,1 +1,1 @@
-Hi. I'm a text file being served by Hunchentoot. Test modify this page and deploy.
+Hello, world! I'm a text file being served by Hunchentoot.
